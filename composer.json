@@ -1,6 +1,13 @@
 {
-	"autoload":
-	{
+	"name": "FootballFan141/LogLimiter",
+	"description": "A PHP class for login attempts abuse preventing.",
+	"homepage": "https://github.com/FootballFan141/LogLimiter/",
+
+	"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/FootballFan141/LogLimiter/"
+    }],
+	"autoload": {
 		"classmap": ["loglimiter.class.php"]
 	}
 }
