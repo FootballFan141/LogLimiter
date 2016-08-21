@@ -1,0 +1,6 @@
+{
+	"autoload":
+	{
+		"classmap": ["loglimiter.class.php"]
+	}
+}
